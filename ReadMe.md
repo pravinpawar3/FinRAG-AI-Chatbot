@@ -1,4 +1,4 @@
-# RAG-based Financial Analysis Chatbot
+# FinRAG AI: RAG-based Financial Analysis Chatbot
 
 In the rapidly evolving financial landscape, rapid access to accurate information is crucial for making informed, high-stakes decisions. To meet this demand, we propose the development of a Retrieval-Augmented Generation (RAG)-based chatbot designed for fast and efficient information retrieval in the financial sector. By leveraging comprehensive datasets, including real-time stock prices and financial news, this chatbot delivers precise answers, insightful analysis, and up-to-date information to its users.
 
