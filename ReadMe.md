@@ -45,7 +45,7 @@ These sources supply the essential data for the chatbot. APIs allow seamless int
 - **Cloud Run**: Deploying containerized applications for high availability and autoscaling.
 - **Docker**: Containerizing the application for consistency across development and production environments.
 - **AWS Cloud**: For hosting, storage, and resource management.
-- **Pincone**: Utilizing Pincone DB on AWS Cloud for efficient vector-based search and retrieval of financial data.
+- **Pinecone**: Utilizing Pinecone DB on AWS Cloud for efficient vector-based search and retrieval of financial data.
 
 # Cost Analysis:
 Since we are using the GCP environment, the cost of resources is relatively low. Each application deployment server costs around $25 per month. To utilize an efficient, custom fine-tuned ChatGPT-4 model, we will require a fine-tuning billing plan priced at $5 per 1M request hits, along with a subscription cost of $20.
