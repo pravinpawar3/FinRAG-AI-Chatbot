@@ -8,8 +8,6 @@ By integrating advanced natural language processing (NLP) with robust, real-time
 
 ![image](https://github.com/user-attachments/assets/2d89614a-8788-4190-9f9d-c0286dd2fcd2)
 
-<img width="1352" alt="s2" src="https://github.com/user-attachments/assets/4d4df974-8511-4e03-81f4-e73a3adfafa7" />
-
 <img width="1352" alt="s1" src="https://github.com/user-attachments/assets/8594d68b-7bb3-447d-a0c0-d1b8f982f4a0" />
 
 
