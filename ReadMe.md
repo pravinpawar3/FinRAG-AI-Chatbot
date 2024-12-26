@@ -20,42 +20,32 @@ By integrating advanced natural language processing (NLP) with robust, real-time
 <img width="1278" alt="image" src="https://github.com/user-attachments/assets/4e1b4be9-7991-4da2-abd2-9b057565f272">
 
 
-# Dataset Information:
+# Data Sources
 
-The core of our RAG-based chatbot is built upon two key datasets: stock prices and financial news.
+To ensure the reliability and comprehensiveness of our datasets, the following sources are used:
 
-Stock Prices: This dataset includes both historical and real-time market data, such as opening, closing, high, and low prices, trading volumes, and other key financial indicators. It provides the quantitative foundation for analyzing market trends, conducting technical analysis, and making data-driven financial forecasts.
+### Stock Prices:
+- **Yahoo Finance API**: Provides real-time and historical stock data, including prices and trading volumes.
 
-Financial News: This dataset encompasses articles, press releases, and reports from reputable financial outlets. It offers qualitative insights into market sentiment, company performance, economic indicators, and other factors that influence stock prices. Financial news is essential for understanding the broader context of market movements and investor behavior.
+### Financial News:
+- **Polygon**: Aggregates financial news, offering timely updates on market trends and company performance.
 
-Together, these datasets empower the chatbot to deliver comprehensive, context-aware responses. By combining quantitative data with qualitative insights, the chatbot can provide robust, accurate, and timely information to support critical financial decision-making.
-
-
-# Data Source:
-
-To ensure the reliability and comprehensiveness of our datasets following sources are used:
-
-Stock Prices:
-
-Yahoo Finance API: Provides real-time and historical stock data, including prices and trading volumes.
-Financial News:
-
-Polygon: Aggregates financial news, offering timely updates on market trends and company performance.
 These sources supply the essential data for the chatbot. APIs allow seamless integration for real-time data, and web scraping is used where necessary to collect additional news articles.
 
-Flow Chart for the approach <img width="962" alt="Screenshot 2024-10-01 at 9 49 50 PM" src="https://github.com/user-attachments/assets/5db6837d-094b-471e-b194-c07248fd35f8">
+![Flow Chart for the approach](https://github.com/user-attachments/assets/5db6837d-094b-471e-b194-c07248fd35f8)
 
-Tools & Technologies:
+---
 
-Flask: A lightweight framework for building the chatbot's backend and API services.
-Streamlit: A framework for rapidly developing and deploying interactive web interfaces for financial data visualization.
-ChatGPT Fine-tuning: Customizing GPT to provide specialized financial analysis and insights.
-Google Cloud: For scalable cloud infrastructure and data storage.
-Cloud Run: Deploying containerized applications for high availability and autoscaling.
-Docker: Containerizing the application for consistency across development and production environments.
-AWS Cloud: For hosting, storage, and resource management.
-Pincone : Utilizing Pincone DB on AWS Cloud for efficient vector-based search and retrieval of financial data.
+# Tools & Technologies
 
+- **Flask**: A lightweight framework for building the chatbot's backend and API services.
+- **Streamlit**: A framework for rapidly developing and deploying interactive web interfaces for financial data visualization.
+- **ChatGPT Fine-tuning**: Customizing GPT to provide specialized financial analysis and insights.
+- **Google Cloud**: For scalable cloud infrastructure and data storage.
+- **Cloud Run**: Deploying containerized applications for high availability and autoscaling.
+- **Docker**: Containerizing the application for consistency across development and production environments.
+- **AWS Cloud**: For hosting, storage, and resource management.
+- **Pincone**: Utilizing Pincone DB on AWS Cloud for efficient vector-based search and retrieval of financial data.
 
 # Cost Analysis:
 Since we are using the GCP environment, the cost of resources is relatively low. Each application deployment server costs around $25 per month. To utilize an efficient, custom fine-tuned ChatGPT-4 model, we will require a fine-tuning billing plan priced at $5 per 1M request hits, along with a subscription cost of $20.
