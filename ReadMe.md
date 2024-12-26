@@ -8,14 +8,17 @@ By integrating advanced natural language processing (NLP) with robust, real-time
 
 ![image](https://github.com/user-attachments/assets/2d89614a-8788-4190-9f9d-c0286dd2fcd2)
 
-<img width="1439" alt="Screenshot 2024-12-05 at 11 26 47 PM" src="https://github.com/user-attachments/assets/3ef0aa96-78b4-4e16-95e8-d271e521be64">
+<img width="1352" alt="s2" src="https://github.com/user-attachments/assets/4d4df974-8511-4e03-81f4-e73a3adfafa7" />
 
-# Model
-- Fined Chatgpt-4o Model
+<img width="1352" alt="s1" src="https://github.com/user-attachments/assets/8594d68b-7bb3-447d-a0c0-d1b8f982f4a0" />
+
+
+# Fine-Tuned ChatGPT-4 Model
 <img width="1512" alt="Screenshot 2024-12-11 at 12 57 24 AM" src="https://github.com/user-attachments/assets/f82bb29f-297a-4a8d-b29a-bdda7abe64f1">
 
 <img width="1512" alt="Screenshot 2024-12-11 at 12 56 43 AM" src="https://github.com/user-attachments/assets/e4b7861c-5011-4899-a1d0-0d512ade1ce6">
 
+# Alerts:
 <img width="1278" alt="image" src="https://github.com/user-attachments/assets/4e1b4be9-7991-4da2-abd2-9b057565f272">
 
 
