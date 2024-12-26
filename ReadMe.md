@@ -10,11 +10,13 @@ By integrating advanced natural language processing (NLP) with robust, real-time
 
 <img width="1352" alt="s1" src="https://github.com/user-attachments/assets/8594d68b-7bb3-447d-a0c0-d1b8f982f4a0" />
 
-
 # Fine-Tuned ChatGPT-4 Model
 <img width="1512" alt="Screenshot 2024-12-11 at 12 57 24 AM" src="https://github.com/user-attachments/assets/f82bb29f-297a-4a8d-b29a-bdda7abe64f1">
 
 <img width="1512" alt="Screenshot 2024-12-11 at 12 56 43 AM" src="https://github.com/user-attachments/assets/e4b7861c-5011-4899-a1d0-0d512ade1ce6">
+
+# Pinecone Vector DB for Efficient Indexing
+![image](https://github.com/user-attachments/assets/9802ccff-38c5-4d1e-9260-57df0c421251)
 
 # Alerts:
 <img width="1278" alt="image" src="https://github.com/user-attachments/assets/4e1b4be9-7991-4da2-abd2-9b057565f272">
